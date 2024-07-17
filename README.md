@@ -67,9 +67,9 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "score": 15,
-    "setup": "What happens after NASA farts?",
-    "punchline": "It apollogises. "
+    "score": 1,
+    "setup": "[NSFW] A glass of wine a day increases the chances of a stroke...",
+    "punchline": "But if you let her have the whole bottle, she might suck it as well!"
   }
 }
 ```
